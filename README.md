@@ -1,8 +1,8 @@
 # A summary index for antimicrobial resistance in food animals in the Netherlands
 
 Arie H Havelaar, Haitske Graveland, Jan van de Kassteele, Tizza P Zomer, Kees Veldman, Martijn Bouwknegt
-BMC Veterinary Research (2017) 13(1):305
 
+BMC Veterinary Research (2017) 13(1):305
 
 ## Background
 
@@ -19,4 +19,3 @@ The highest weights (0.35) were given to ciprofloxacin and cefotaxime followed b
 ## Conclusions
 
 We demonstrate that high-dimensional data on surveillance of antimicrobial resistance can be summarized in an index for evaluating trends between and within food animal species by a process involving decision makers and scientists to select and weight the most relevant antibiotics.
-
