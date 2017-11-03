@@ -1,8 +1,6 @@
 # A summary index for antimicrobial resistance in food animals in the Netherlands
 
-Arie H Havelaar, Haitske Graveland, Jan van de Kassteele, Tizza P Zomer, Kees Veldman, Martijn Bouwknegt
-
-BMC Veterinary Research (2017) 13(1):305
+Havelaar AH, Graveland H, van de Kassteele J, Zomer TP, Veldman K, Bouwknegt M (2017). A summary index for antimicrobial resistance in food animals in the Netherlands. *BMC Veterinary Research* **13**(1):305 [link](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-017-1216-z)
 
 ## Background
 
